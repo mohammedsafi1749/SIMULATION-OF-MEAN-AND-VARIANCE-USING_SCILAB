@@ -26,20 +26,18 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## PROGRAM
 
-<img width="729" height="879" alt="image" src="https://github.com/user-attachments/assets/bd9842cd-5f3b-432a-931b-358932fe7db0" />
-<img width="509" height="173" alt="image" src="https://github.com/user-attachments/assets/5dcbfeb5-a1d0-480f-b7ba-5e37b73590e7" />
+![WhatsApp Image 2025-10-23 at 09 32 45_6d2023bf](https://github.com/user-attachments/assets/a5e0aa58-f254-4684-8f96-ec6f1fe40997)
+<img width="1912" height="424" alt="image" src="https://github.com/user-attachments/assets/ec7c98d9-1bd8-4a2e-aefe-af8905940b27" />
+
 
 ## CALCULATION
 
-![WhatsApp Image 2025-10-18 at 13 13 42_0eec18b0](https://github.com/user-attachments/assets/c9bd63a7-bbbf-4ee4-951b-20d54ef6dde3)
-![WhatsApp Image 2025-10-18 at 13 13 42_2b6fdfc6](https://github.com/user-attachments/assets/9f441196-0f01-474a-a6e0-dcc1554f33b9)
-![WhatsApp Image 2025-10-18 at 13 13 41_7a1f751a](https://github.com/user-attachments/assets/c6966459-b724-4c4b-9316-2218cd752844)
 
 ## OUTPUT
 
-<img width="605" height="368" alt="image" src="https://github.com/user-attachments/assets/f1ecb60b-1e21-48e7-b15f-8320faccde67" />
+<img width="1146" height="589" alt="image" src="https://github.com/user-attachments/assets/9cca6755-65e7-41dd-bd26-febf0ddbc04a" />
 
-<img width="758" height="718" alt="image" src="https://github.com/user-attachments/assets/705dfa6c-9f2e-4669-97e4-5d9078cff740" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/aa9582f8-d369-4a55-a2b7-7ad7dd248ccc" />
 
 ## RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
